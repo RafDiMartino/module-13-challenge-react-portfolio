@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/module-13-challenge-react-portfolio/static/css/main.073c9b0a.css",
+    "main.js": "/module-13-challenge-react-portfolio/static/js/main.2ac31d90.js",
+    "static/js/787.5f39121c.chunk.js": "/module-13-challenge-react-portfolio/static/js/787.5f39121c.chunk.js",
+    "static/media/logo.svg": "/module-13-challenge-react-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/module-13-challenge-react-portfolio/index.html",
+    "main.073c9b0a.css.map": "/module-13-challenge-react-portfolio/static/css/main.073c9b0a.css.map",
+    "main.2ac31d90.js.map": "/module-13-challenge-react-portfolio/static/js/main.2ac31d90.js.map",
+    "787.5f39121c.chunk.js.map": "/module-13-challenge-react-portfolio/static/js/787.5f39121c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2ac31d90.js"
+  ]
+}
