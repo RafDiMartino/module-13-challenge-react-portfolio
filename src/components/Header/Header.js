@@ -7,9 +7,9 @@ function Header() {
     <header>
       <nav>
         <ul>
-          <li><NavLink to='module-13-challenge-react-portfolio/'>Homepage</NavLink></li>
-          <li><NavLink to='module-13-challenge-react-portfolio/projects'>Projects</NavLink></li>
-          <li><NavLink to='module-13-challenge-react-portfolio/contact'>Contact</NavLink></li>
+          <li><NavLink to='/'>Homepage</NavLink></li>
+          <li><NavLink to='/projects'>Projects</NavLink></li>
+          <li><NavLink to='/contact'>Contact</NavLink></li>
         </ul>
       </nav>
     </header>

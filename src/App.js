@@ -14,9 +14,9 @@ function App() {
       <Router>
         <Header />
         <Routes>
-          <Route path='module-13-challenge-react-portfolio/' element={<Homepage />} />
-          <Route path='module-13-challenge-react-portfolio/projects' element={<Projects />} />
-          <Route path='module-13-challenge-react-portfolio/contact' element={<Contact />} />
+          <Route path='/' element={<Homepage />} />
+          <Route path='/projects' element={<Projects />} />
+          <Route path='/contact' element={<Contact />} />
           <Route path='*' element={<Page404 />} />
         </Routes>
         <Footer />

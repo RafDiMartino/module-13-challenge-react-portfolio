@@ -43,11 +43,27 @@
     padding: 0 0 1rem 0;
 }
 
+.buttons-container {
+    padding: 2rem 0;
+}
+
+.button {
+    text-decoration: none;
+    color: var(--color-black);
+    background-color: var(--color-primary);
+    border-radius: 2px;
+    padding: .5rem 1rem;
+    margin: 1rem;
+    box-shadow: var(--color-black) 2px 3px 1px;
+}
+
+.button:hover {
+    background-color: var(--color-white);
+}
+
 @media only screen and (min-width: 600px){
     .hero-section {
         display: flex;
-        /* flex-direction: row; */
-        /* justify-content: space-between; */
     }
 
     .hero-section h1 {
@@ -76,10 +92,6 @@
 }
 
 @media only screen and (min-width: 1440px){
-    .hero-section {
-        flex-direction: row;
-        /* justify-content: center; */
-    }
 
     .hero-section h1 {
         font-size: 7rem;

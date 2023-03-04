@@ -1,6 +1,7 @@
 import React from 'react'
 import Skills from '../components/Skills/Skills'
 import "./Homepage.css"
+import { NavLink } from 'react-router-dom'
 
 function Homepage() {
   return (
@@ -15,6 +16,10 @@ function Homepage() {
         <p>I have been creating websites for small and large business clients. My attention to detail guarantees the quality of the final product and my good interpersonal skills help foster meaningful relationships. My creativity enables me to deliver pixel perfect webpages in HTML/CSS and JavaScript. Aswell as ensuring they adhere to W3C standards, I use also JavaScript and CSS frameworks like React, jQuery, Tailwind, Bootstrap, to deliver interactive engaging experiences.</p>
       </div>
       <Skills />
+      <div className='buttons-container'>
+        <NavLink className='button' to='/projects'>My projects</NavLink>
+        <NavLink className='button' to='/contact'>Contact me</NavLink>
+      </div>
     </div>
   )
 }
