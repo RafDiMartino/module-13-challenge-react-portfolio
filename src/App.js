@@ -1,4 +1,4 @@
-import './App.css';
+import './global-styles/global.css';
 import Header from './components/Header/Header';
 import Contact from './pages/Contact';
 import Homepage from './pages/Homepage';
