@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/module-13-challenge-react-portfolio/static/css/main.b70cc869.css",
-    "main.js": "/module-13-challenge-react-portfolio/static/js/main.6b69dfef.js",
-    "static/js/787.5f39121c.chunk.js": "/module-13-challenge-react-portfolio/static/js/787.5f39121c.chunk.js",
-    "index.html": "/module-13-challenge-react-portfolio/index.html",
-    "main.b70cc869.css.map": "/module-13-challenge-react-portfolio/static/css/main.b70cc869.css.map",
-    "main.6b69dfef.js.map": "/module-13-challenge-react-portfolio/static/js/main.6b69dfef.js.map",
-    "787.5f39121c.chunk.js.map": "/module-13-challenge-react-portfolio/static/js/787.5f39121c.chunk.js.map"
+    "main.css": "/static/css/main.b70cc869.css",
+    "main.js": "/static/js/main.f71a8359.js",
+    "static/js/787.5f39121c.chunk.js": "/static/js/787.5f39121c.chunk.js",
+    "index.html": "/index.html",
+    "main.b70cc869.css.map": "/static/css/main.b70cc869.css.map",
+    "main.f71a8359.js.map": "/static/js/main.f71a8359.js.map",
+    "787.5f39121c.chunk.js.map": "/static/js/787.5f39121c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b70cc869.css",
-    "static/js/main.6b69dfef.js"
+    "static/js/main.f71a8359.js"
   ]
 }
