@@ -4,8 +4,8 @@ import "./Footer.css"
 function Footer() {
   return (
     <footer >
-      <h4>A React exercise for edX Bootcamp</h4>
-      <div >
+      <p>A React exercise for edX Bootcamp</p>
+      <div className='social-container'>
         <a href="mailto:r.dimartino.uk@gmail.com" target="_blank" rel="noopener noreferrer" aria-label="link to the email">
           <svg fill="var(--color-primary)" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24">
             <path
