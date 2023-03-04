@@ -1,7 +1,7 @@
 footer {
     width: 100%;
-    background-color: rgb(46, 46, 46);
-    color: azure;
+    background-color: var(--color-black);
+    color: var(--color-white);
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -9,6 +9,6 @@ footer {
 }
 
 footer svg {
-    color: azure;
+    color: var(--color-white);
     padding: 0 1rem;
 }
