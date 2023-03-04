@@ -1,0 +1,14 @@
+footer {
+    width: 100%;
+    background-color: rgb(46, 46, 46);
+    color: azure;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+footer svg {
+    color: azure;
+    padding: 0 1rem;
+}
