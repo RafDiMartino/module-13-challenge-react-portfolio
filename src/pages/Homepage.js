@@ -1,4 +1,5 @@
 import React from 'react'
+import Skills from '../components/Skills/Skills'
 import "./Homepage.css"
 
 function Homepage() {
@@ -13,6 +14,7 @@ function Homepage() {
         <p>I am a Junior Web Developer with a Bachelor’s Honours degree in Design and Applied Arts.</p>
         <p>I have been creating websites for small and large business clients. My attention to detail guarantees the quality of the final product and my good interpersonal skills help foster meaningful relationships. My creativity enables me to deliver pixel perfect webpages in HTML/CSS and JavaScript. Aswell as ensuring they adhere to W3C standards, I use also JavaScript and CSS frameworks like React, jQuery, Tailwind, Bootstrap, to deliver interactive engaging experiences.</p>
       </div>
+      <Skills />
     </div>
   )
 }
