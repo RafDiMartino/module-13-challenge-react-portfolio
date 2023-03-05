@@ -4,7 +4,6 @@ import { useState } from 'react'
 import Project from '../components/Project/Project'
 import projects from "../data/projects.json"
 
-
 function Projects() {
 
   const [project, setproject] = useState(projects);
@@ -13,7 +12,9 @@ function Projects() {
     <div className='projects-container'>
       <div className='projects-wrapper'>
         <h2>Projects</h2>
-        {projects.map( p => <Project project={p} key={p.id} />)}
+        <div className='project-wrapper'>
+          {projects.map( p => <Project project={p} key={p.id} />)}
+        </div>
       </div>
     </div>
   )

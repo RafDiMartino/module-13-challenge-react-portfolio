@@ -1,13 +1,10 @@
 .projects-container {
-    background-color: var(--color-secondary);
-    /* height: 100%; */
     width: 100%;
     color: var(--color-white);
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    
 }
 
 .projects-wrapper {
@@ -16,12 +13,19 @@
     max-width: var(--max-width);
 }
 
+.project-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
 .projects-container h2{
-    /* padding-top: 10rem; */
     text-align: center;
     color: var(--color-primary);
     width: 100%;
     font-size: 2rem;
     border-bottom: 2px solid var(--color-primary);
     padding-bottom: .5rem;
+    margin-bottom: 3rem;
 }

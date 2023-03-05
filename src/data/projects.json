@@ -1,17 +1,51 @@
 [
     {
         "id": 1,
-        "title": "Caesar Cipher",
-        "linkDeployment": "https://rafdimartino.github.io/Caesar-Cipher/index.html",
-        "linkRepository": "https://github.com/RafDiMartino/Caesar-Cipher",
-        "screenshot": "https://picsum.photos/500/300"
+        "title": "Creative Lab",
+        "description": "Website for an artisan who customises shoes, candles and more - Made with React.",
+        "linkDeployment": "https://laboratoriocreativo.net/#/",
+        "linkRepository": "https://github.com/RafDiMartino/creative-lab",
+        "screenshot": "./images/creative-lab-project.png"
     },
     {
         "id": 2,
-        "title": "Virtual Piano",
+        "title": "Caesar Cipher",
+        "description": "My version of the Caesar Cipher with three methods of encryption.",
         "linkDeployment": "https://rafdimartino.github.io/Caesar-Cipher/index.html",
         "linkRepository": "https://github.com/RafDiMartino/Caesar-Cipher",
-        "screenshot": "https://picsum.photos/550/300"
+        "screenshot": "./images/cipher-project.png"
+    },
+    {
+        "id": 3,
+        "title": "Piano App",
+        "description": "A piano App, practicing with JavaScript DOM manipulation and Events.",
+        "linkDeployment": "https://rafdimartino.github.io/Virtual%20Piano-/Virtual%20Piano.html",
+        "linkRepository": "https://github.com/RafDiMartino/Virtual-Piano",
+        "screenshot": "./images/piano-project.png"
+    },
+    {
+        "id": 4,
+        "title": "Weather App",
+        "description": "A piano App, practicing with JavaScript DOM manipulation and Events.",
+        "linkDeployment": "https://rafdimartino.github.io/Weather-App/",
+        "linkRepository": "https://github.com/RafDiMartino/Weather-App/tree/master",
+        "screenshot": "./images/weather-app-project.png"
+    },
+    {
+        "id": 5,
+        "title": "Calculator App",
+        "description": "Simple Calculator, practicing with JavaScript functions, DOM and events.",
+        "linkDeployment": "https://rafdimartino.github.io/Calculator/index.html",
+        "linkRepository": "https://github.com/RafDiMartino/Simple-Calculator",
+        "screenshot": "./images/calculator-project.png"
+    },
+    {
+        "id": 6,
+        "title": "Clock App",
+        "description": "In this app I am practicing with JavaScript DOM manipulation and Date Object.",
+        "linkDeployment": "https://rafdimartino.github.io/DigitalClock/index.html",
+        "linkRepository": "https://github.com/RafDiMartino/Digital-Clock",
+        "screenshot": "./images/clock-project.png"
     }
 ]
   
