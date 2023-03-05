@@ -1,0 +1,27 @@
+.projects-container {
+    background-color: var(--color-secondary);
+    height: 100%;
+    width: 100%;
+    color: var(--color-white);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.projects-wrapper {
+    width: 100%;
+    padding: 0 1rem;
+    max-width: var(--max-width);
+}
+
+.projects-container h2{
+    /* padding-top: 10rem; */
+    text-align: center;
+    color: var(--color-primary);
+    width: 100%;
+    font-size: 2rem;
+    border-bottom: 2px solid var(--color-primary);
+    padding-bottom: .5rem;
+}
