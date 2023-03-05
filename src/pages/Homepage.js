@@ -17,8 +17,8 @@ function Homepage() {
       </div>
       <Skills />
       <div className='buttons-container'>
-        <NavLink className='button' to='/projects'>My projects</NavLink>
-        <NavLink className='button' to='/contact'>Contact me</NavLink>
+        <NavLink className='button' to='projects'>My projects</NavLink>
+        <NavLink className='button' to='contact'>Contact me</NavLink>
       </div>
     </div>
   )
