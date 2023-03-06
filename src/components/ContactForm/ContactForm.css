@@ -36,3 +36,8 @@ form button {
     cursor: pointer;
     border: none;
 }
+
+.success-message {
+    text-align: center;
+    color: var(--color-primary);
+}
