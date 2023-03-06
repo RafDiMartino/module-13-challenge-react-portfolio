@@ -4,8 +4,10 @@ import "./ContactForm.css"
 
 function ContactForm() {
 
+    // State to handle the success message
     const [success, setSuccess] = useState(false)
 
+    // State to handle the form data
     const [formData, setFormData] = useState({
         name: '',
         email: '',
@@ -13,6 +15,7 @@ function ContactForm() {
         access_key: '8f7cd656-fec0-4e74-8279-c70496d238cf'
     })
 
+    //Function that handles the onchange event
     const handleChange = (event) => {
         setFormData({
             ...formData,
@@ -20,9 +23,11 @@ function ContactForm() {
         })
     }
 
+    //Function that handles the form submit
     const handleSubmit = (event) => {
         event.preventDefault();
         
+        // Connecting to Web3Form api for handling submission email to my email address
         const data = JSON.stringify(formData);
 
         fetch('https://api.web3forms.com/submit', {

@@ -1,6 +1,7 @@
 import { useEffect } from 'react';
 import { useLocation } from 'react-router-dom';
 
+// Component to handle the scroll to top on component rendering
 const ScrollToTop = () => {
   // Extracts pathname property(key) from an object
   const { pathname } = useLocation();
