@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/module-13-challenge-react-portfolio/static/css/main.7a879b75.css",
-    "main.js": "/module-13-challenge-react-portfolio/static/js/main.19a3946e.js",
+    "main.js": "/module-13-challenge-react-portfolio/static/js/main.4cf91859.js",
     "static/js/787.5f39121c.chunk.js": "/module-13-challenge-react-portfolio/static/js/787.5f39121c.chunk.js",
     "static/media/raffaele-di-martino-cv.pdf": "/module-13-challenge-react-portfolio/static/media/raffaele-di-martino-cv.e2f34c75ed9b79bc72a1.pdf",
     "index.html": "/module-13-challenge-react-portfolio/index.html",
     "main.7a879b75.css.map": "/module-13-challenge-react-portfolio/static/css/main.7a879b75.css.map",
-    "main.19a3946e.js.map": "/module-13-challenge-react-portfolio/static/js/main.19a3946e.js.map",
+    "main.4cf91859.js.map": "/module-13-challenge-react-portfolio/static/js/main.4cf91859.js.map",
     "787.5f39121c.chunk.js.map": "/module-13-challenge-react-portfolio/static/js/787.5f39121c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a879b75.css",
-    "static/js/main.19a3946e.js"
+    "static/js/main.4cf91859.js"
   ]
 }
