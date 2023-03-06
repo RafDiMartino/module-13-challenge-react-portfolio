@@ -27,7 +27,7 @@ The portfolio site is fully responsive following mobile-first design.
 ![**screenshot of the application**](public/images/application-screenshot.png)
 
 ### Link to the deployed application 
-https://rafdimartino.github.io/module-3-challenge-bootstrap-portfolio/
+https://rafdimartino.github.io/rafdimartino-react-portfolio/
 
 ## Tests
 The application presents no error both in the development enviroment and in in the deployed application
