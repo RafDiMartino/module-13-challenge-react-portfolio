@@ -28,7 +28,7 @@
 
 .project-container .content {
     position: absolute;
-    top: 20%;
+    top: 30%;
     text-align: center;
     padding: 0 1rem;
     z-index: 2;
@@ -38,7 +38,7 @@
 .project-container h3 {
     width: 100%;
     font-size: 1.5rem;
-    padding-bottom: .5rem;
+    padding-bottom: 1rem;
 }
 
 .project-container svg {
