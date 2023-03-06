@@ -27,6 +27,20 @@
     margin-bottom: 3rem;
 }
 
+.contact-container p{
+margin-bottom: 1.5rem;
+}
+
+.social-media {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem 0 3rem 0;
+    width: 100%;
+    max-width:  500px;
+}
+
 .form-wrapper {
     width: 100%;
     max-width:  500px;

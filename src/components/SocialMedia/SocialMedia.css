@@ -1,0 +1,18 @@
+.social-media-wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: all 1s ease-in-out;
+    flex-wrap: wrap;
+}
+
+.social-media-wrapper  a{
+    margin: .5rem;
+    transition: all .3s ease-in-out;
+    
+}
+
+.social-media-wrapper  a:hover:not(:last-child){
+    transform: scale(1.2);
+}
