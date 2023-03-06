@@ -1,0 +1,38 @@
+.contact-form-container {
+    width: 100%;
+    /* max-width: 100%; */
+    
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+form input,
+form textarea,
+form button {
+    width: 100%;
+    padding: .5rem;
+    border:none;
+    font-family: 'Roboto', sans-serif;
+}
+
+form input {
+    margin-bottom: 1rem;
+    
+}
+
+form input:focus,
+form textarea:focus,
+form button:focus {
+    outline: 2px solid var(--color-primary);
+}
+
+form button {
+    cursor: pointer;
+    border: none;
+}
