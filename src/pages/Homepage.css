@@ -31,10 +31,10 @@
 .brand-statement {
     max-width: var(--max-width);
     padding: 1rem;
+    text-align: center;
 }
 
 .brand-statement h2 {
-    text-align: center;
     padding: 2rem 0 ;
     font-size: 2rem;
 }
