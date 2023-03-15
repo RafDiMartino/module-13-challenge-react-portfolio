@@ -36,7 +36,7 @@ The application presents no error both in the development enviroment and in in t
 N/A
 
 ## Usage
-The React Portfolio page is deployed on Github Pages so you can access it by clicking [here](https://rafdimartino.github.io/rafdimartino-react-portfolio/)
+The React Portfolio page is deployed on Github Pages so you can access it by clicking [here](https://rafdimartino.github.io/module-13-challenge-react-portfolio)
 
 
 ## License
